@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Kavya Varshini
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning ML and App development
+
 
 
 <!---
